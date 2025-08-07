@@ -11,5 +11,4 @@ I m a learner at becode and want to become a developper ai and data scientist. <
 
 ## 📬 Me contacter
 
-- Email : mouske89@gmail.com
 
